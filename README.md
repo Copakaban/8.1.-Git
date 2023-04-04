@@ -13,3 +13,6 @@ Link to commit 2: https://github.com/Copakaban/8.1.-Git/commit/29e0072ce929144af
 
 **Задание 3.**  
 Link to graph: https://github.com/Copakaban/8.1.-Git/network
+
+**Задание 4*.**  
+https://github.com/Copakaban/8.1.-Git/network
